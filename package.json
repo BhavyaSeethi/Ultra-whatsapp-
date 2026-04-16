@@ -1,0 +1,14 @@
+{
+  "name": "ultrawhatsapp",
+  "version": "1.0.0",
+  "description": "UltraWhatsApp backend server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Seethi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
